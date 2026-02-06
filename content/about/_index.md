@@ -11,7 +11,7 @@ showMeta: false
 menu:
   main:
     name: "About"
-    weight: 70
+    weight: 60
 ---
 
 *Truth-Machine is an evaluation and governance framework for written material used in high-stakes decision contexts.*

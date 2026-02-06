@@ -10,7 +10,7 @@ showMeta: false
 menu:
   main:
     name: "Use Cases"
-    weight: 40
+    weight: 50
 ---
 
 *Interpretive infrastructure—supporting evaluation, explanation, and governance wherever written material carries authority.*

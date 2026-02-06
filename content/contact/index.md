@@ -10,7 +10,7 @@ showMeta: false
 menu:
   main:
     name: "Contact"
-    weight: 80
+    weight: 70
 ---
 
 For inquiries related to governance-first evaluation of written material in high-stakes decision environments—including investment governance, fiduciary review, and compliance-sensitive decision workflows—please email:
