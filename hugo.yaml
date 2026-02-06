@@ -19,17 +19,16 @@ params:
   homeInfoParams:
     Title: "Truth-Machine"
     Content: |
-      *Truth-Machine is infrastructure for thinking clearly under pressure.*<br><br>
-      Truth-Machine is a governance-first evaluation framework for written material used in high-stakes decision environments. It makes interpretive influence visible and traceable—so persuasive language, repetition, and statistical regularity do not acquire authority beyond evidentiary grounding and logical coherence.<br><br>
-       • Governs admissibility and downstream influence of written signals<br>
-       • Produces audit-ready interpretive threads alongside evaluative outputs<br>
-       • Supports committee, fiduciary, and compliance-heavy decision workflows<br>
-       • Designed to strengthen judgment, not replace it
+      *Infrastructure for interpretive governance in high-stakes decisions.<br><br>*
 
+      Written material carries real authority in committees, policy, fiduciary, and compliance settings. Yet persuasive form, repetition, and apparent coherence can outpace evidentiary grounding—allowing influence to accumulate without accountability.<br><br>
 
-  socialIcons:
-    - name: "email"
-      url: "mailto:hello@truth-machine.org"
+      Truth-Machine introduces interpretive governance: it governs what signals are admissible and how influence may propagate and persist, so authority is earned through evidence and reasoning rather than accumulated by language alone.<br><br>
+
+      • Governs admissibility and downstream influence of written signals<br>
+      • Produces audit-ready interpretive explanations alongside evaluative outputs<br>
+      • Complements existing analytical and AI-assisted review workflows<br>
+      • Strengthens judgment without replacing deliberation<br><br>
 
 markup:
   goldmark:
