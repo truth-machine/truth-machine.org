@@ -1,0 +1,5 @@
+/* Make all non-home pages white (keep home page as-is) */
+body:not(.home),
+body:not(.home) .main {
+  background: #fff !important;
+}

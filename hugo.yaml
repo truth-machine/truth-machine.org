@@ -1,0 +1,45 @@
+baseURL: "https://truth-machine.org/"
+languageCode: "en-us"
+title: "Truth-Machine"
+theme: ["PaperMod"]
+
+params:
+  env: production
+  description: "Truth-Machine governs how written material is allowed to influence high-stakes evaluation and decision-making."
+  defaultTheme: auto
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: "Truth-Machine"
+    Content: |
+      *Truth-Machine is infrastructure for thinking clearly under pressure.*<br><br>
+      Truth-Machine is a governance-first evaluation framework for written material used in high-stakes decision environments. It makes interpretive influence visible and traceable—so persuasive language, repetition, and statistical regularity do not acquire authority beyond evidentiary grounding and logical coherence.<br><br>
+       • Governs admissibility and downstream influence of written signals<br>
+       • Produces audit-ready interpretive threads alongside evaluative outputs<br>
+       • Supports committee, fiduciary, and compliance-heavy decision workflows<br>
+       • Designed to strengthen judgment, not replace it
+
+
+  socialIcons:
+    - name: "email"
+      url: "mailto:hello@truth-machine.org"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+
