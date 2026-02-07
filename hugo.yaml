@@ -7,6 +7,7 @@ params:
   env: production
   description: "Truth-Machine governs how written material is allowed to influence high-stakes evaluation and decision-making."
   defaultTheme: auto
+  disableAnchoredHeadings: true
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -23,8 +24,8 @@ params:
 
       Written material carries real authority in committees, policy, fiduciary, and compliance settings. Yet persuasive form, repetition, and apparent coherence can outpace evidentiary grounding—allowing influence to accumulate without accountability.<br><br>
 
-      Truth-Machine introduces interpretive governance: it governs what signals are admissible and how influence may propagate and persist, so authority is earned through evidence and reasoning rather than accumulated by language alone.<br><br>
-
+      Truth-Machine introduces interpretive governance: it governs what signals are admissible and how influence may propagate and persist, so authority is earned through evidence and reasoning rather than accumulated by language alone.  <br><br>
+      **Truth-Machine:<br>**
       • Governs admissibility and downstream influence of written signals<br>
       • Produces audit-ready interpretive explanations alongside evaluative outputs<br>
       • Complements existing analytical and AI-assisted review workflows<br>

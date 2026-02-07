@@ -50,17 +50,24 @@ The difference is **governed authority**.
 
 ## Comparison: AI-Assisted Review With and Without Interpretive Governance
 
-| Dimension | AI-Assisted Review (Ungoverned) | AI-Assisted Review + Truth-Machine Governance |
-|----------|--------------------------------|----------------------------------------------|
-| Primary output | Plausible synthesis, critique, and recommendations | Structured evaluation artifacts plus traceable interpretive explanations |
-| Role of AI tools | Central analytic engine | Powerful analytic input operating within governance constraints |
-| Treatment of persuasion | Often absorbed implicitly into confidence | Treated as a signal whose influence must be governed |
-| Role of repetition | Can reinforce apparent strength through accumulation | Explicitly constrained so repetition cannot silently become authority |
-| Handling of coherence | Coherence may appear evidence-like | Coherence is separated from evidentiary grounding |
-| Aggregation behavior | Interpretation collapses quickly into summaries or conclusions | Interpretation is externalized and governed before aggregation is permitted |
-| Accountability | Difficult to explain why confidence emerged | Interpretive threads preserve why influence accumulated |
-| Revision mode | Post-hoc correction of outputs | Revision targets upstream interpretive origins, not downstream outcomes |
-| Institutional defensibility | Useful but often non-auditable | Structured for committee review, compliance scrutiny, and durable rationale |
+Most institutions already benefit from AI-assisted workflow tools. Truth-Machine does not replace these tools — it complements them by governing the interpretive conditions under which their outputs are allowed to accumulate influence.
+
+The difference is not fluency, but governance: Truth-Machine ensures that confidence is earned through evidence and disciplined propagation rather than accumulated by language alone.
+
+**Ungoverned AI-assisted review tends to produce:**
+
+- fluent synthesis without explicit admissibility constraints  
+- confidence shaped implicitly by coherence, repetition, or stylistic force  
+- conclusions that are difficult to audit or reconstruct once challenged  
+
+**Truth-Machine adds interpretive governance by making explicit:**
+
+- what signals are admissible as evidence  
+- how influence may propagate, couple, and amplify across a document  
+- how reasoning persists as durable interpretive explanation rather than opaque convergence  
+
+The result is not less AI capability, but more institutional defensibility: interpretive influence remains visible, constrained, and accountable as it moves toward judgment.
+
 
 ---
 

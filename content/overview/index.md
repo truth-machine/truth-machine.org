@@ -27,7 +27,7 @@ Truth-Machine does not generate content, predict outcomes, or automate decisions
 
 Modern decision-making increasingly depends on complex written artifacts:
 
-- Investment theses and committee memoranda
+- Investment proposals and committee memoranda
 
 - Due-diligence reports and risk assessments
 

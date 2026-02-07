@@ -3,3 +3,16 @@ body:not(.home),
 body:not(.home) .main {
   background: #fff !important;
 }
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: var(--theme);
+
+  /* Subtle separation */
+  border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+
+  /* Very light depth cue */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
+}
+

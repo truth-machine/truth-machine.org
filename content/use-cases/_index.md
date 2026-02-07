@@ -1,5 +1,5 @@
 ---
-title: "Use Cases"
+title: "Applications"
 layout: "page"
 draft: false
 
@@ -9,7 +9,7 @@ showMeta: false
 
 menu:
   main:
-    name: "Use Cases"
+    name: "Applications"
     weight: 50
 ---
 
@@ -25,7 +25,7 @@ Truth-Machine functions as a governance layer: it governs how interpretive influ
 
 ---
 
-## 1. Document Evaluation and Decision Support
+## Before Decisions: Structured Evaluation and Decision Support
 
 **Context**  
 In high-stakes environments, decisions are often informed by written material whose authority exceeds its evidentiary grounding. Investment memoranda, policy analyses, due-diligence reports, and AI-assisted summaries may appear coherent and persuasive while concealing internal inconsistency, amplification effects, or unsupported inference.
@@ -52,33 +52,37 @@ Truth-Machine supports decision-making without asserting decisions.
 
 ---
 
-## 2. Iterative Author Guidance and Document Development
+## After Decisions: Documentation, Rationale, and Defensibility
 
-**Context**  
-Authors of consequential documents often lack visibility into how structure, emphasis, and revision affect global interpretive posture. Feedback is typically subjective, delayed, or disconnected from document-scale effects.
+Context  
+In high-stakes environments, decisions rarely end when deliberation concludes. Institutions must document rationale, communicate justification, and remain prepared for later review, audit, or challenge.
 
-**How Truth-Machine Is Used**  
-Drafts and revisions are analyzed diagnostically. Rather than prescribing content, Truth-Machine surfaces:
+Traditional post-decision documentation is often reconstructed after the fact, relying on summary narratives rather than the actual interpretive pressures that shaped judgment.
 
-- internal contradictions or unresolved tension
-- misalignment between stated purpose and execution
-- premature conclusions unsupported by earlier sections
-- unintended amplification arising from repetition or structure
+How Truth-Machine Is Used  
+Truth-Machine preserves structured evaluation outputs and interpretive explanations as durable governance artifacts. Rather than generating retrospective justification, it maintains traceable records of:
 
-The same interpretive discipline applied in evaluation is reused prospectively as guidance.
+- which evidence and segments carried the most evaluative weight  
+- how coherence, repetition, or interaction effects influenced confidence  
+- where uncertainty or disagreement remained present at the time of decision  
+- what assumptions or constraints shaped the final interpretive posture  
 
-**Value for Authors and Institutions**  
-Truth-Machine enables disciplined refinement by:
+These interpretive threads persist beyond the decision event and can be revisited without re-authoring the original reasoning process.
 
-- externalizing interpretive reasoning
-- preserving authorial intent
-- explaining how local changes affect global meaning
+Value for Institutions and Stakeholders  
+Truth-Machine strengthens post-decision accountability by enabling:
 
-This use case is especially relevant in policy drafting, technical writing, regulatory submissions, and other contexts where coherence and defensibility matter more than stylistic optimization.
+- audit-ready documentation grounded in actual evaluative structure  
+- defensible communication with committees, regulators, or stakeholders  
+- targeted review when outcomes are questioned or revisited  
+- durable institutional memory of how authority was earned  
+
+This use case is especially relevant wherever decisions must remain explainable over time, including fiduciary governance, compliance-sensitive review, and formal policy or investment documentation.
+
 
 ---
 
-## 3. Governance, Compliance, and Longitudinal Oversight
+## Across Decisions Over Time: Governance, Compliance, and Longitudinal Oversight
 
 **Context**  
 In governance and compliance settings, risk rarely arises from isolated actions. It emerges over time as repetition, procedural regularity, or surface adherence is mistaken for substantive alignment with policy or intent.
