@@ -10,7 +10,7 @@ showMeta: false
 menu:
   main:
     name: "Applications"
-    weight: 50
+    weight: 40
 ---
 
 *Interpretive infrastructure—supporting evaluation, explanation, and governance wherever written material carries authority.*
@@ -28,7 +28,7 @@ Truth-Machine functions as a governance layer: it governs how interpretive influ
 ## Before Decisions: Structured Evaluation and Decision Support
 
 **Context**  
-In high-stakes environments, decisions are often informed by written material whose authority exceeds its evidentiary grounding. Investment memoranda, policy analyses, due-diligence reports, and AI-assisted summaries may appear coherent and persuasive while concealing internal inconsistency, amplification effects, or unsupported inference.
+In high-stakes environments, decisions are often informed by written material whose authority exceeds its evidentiary grounding. Investment memoranda, policy analyses, due-diligence reports, and AI-assisted summaries may appear coherent and persuasive while concealing internal inconsistency, amplification effects, or unsupported inferences.
 
 **How Truth-Machine Is Used**  
 Documents are processed through the Truth-Machine pipeline prior to or alongside deliberation. The system produces structured evaluations that make explicit:
@@ -54,31 +54,30 @@ Truth-Machine supports decision-making without asserting decisions.
 
 ## After Decisions: Documentation, Rationale, and Defensibility
 
-Context  
+**Context**  
 In high-stakes environments, decisions rarely end when deliberation concludes. Institutions must document rationale, communicate justification, and remain prepared for later review, audit, or challenge.
 
 Traditional post-decision documentation is often reconstructed after the fact, relying on summary narratives rather than the actual interpretive pressures that shaped judgment.
 
-How Truth-Machine Is Used  
+**How Truth-Machine Is Used**  
 Truth-Machine preserves structured evaluation outputs and interpretive explanations as durable governance artifacts. Rather than generating retrospective justification, it maintains traceable records of:
 
-- which evidence and segments carried the most evaluative weight  
-- how coherence, repetition, or interaction effects influenced confidence  
-- where uncertainty or disagreement remained present at the time of decision  
-- what assumptions or constraints shaped the final interpretive posture  
+- which evidence and segments carried the most evaluative weight
+- how coherence, repetition, or interaction effects influenced confidence
+- where uncertainty or disagreement remained present at the time of decision
+- what assumptions or constraints shaped the final interpretive posture
 
 These interpretive threads persist beyond the decision event and can be revisited without re-authoring the original reasoning process.
 
-Value for Institutions and Stakeholders  
+**Value for Institutions and Stakeholders**  
 Truth-Machine strengthens post-decision accountability by enabling:
 
-- audit-ready documentation grounded in actual evaluative structure  
-- defensible communication with committees, regulators, or stakeholders  
-- targeted review when outcomes are questioned or revisited  
-- durable institutional memory of how authority was earned  
+- audit-ready documentation grounded in actual evaluative structure
+- defensible communication with committees, regulators, or stakeholders
+- targeted review when outcomes are questioned or revisited
+- durable institutional memory of how authority was earned
 
 This use case is especially relevant wherever decisions must remain explainable over time, including fiduciary governance, compliance-sensitive review, and formal policy or investment documentation.
-
 
 ---
 
@@ -129,5 +128,4 @@ Truth-Machine functions as interpretive infrastructure—supporting evaluation, 
 
 ---
 
-**Across all use cases, Truth-Machine makes interpretive influence visible, traceable, and governable—so that decisions are informed by evidence and coherence rather than persuasion, repetition, or form.**
-
+**Across all use cases, Truth-Machine makes interpretive influence visible, traceable, and governable—so that decisions are informed by evidence and reasoning rather than persuasion, repetition, or form.**

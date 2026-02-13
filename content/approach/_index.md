@@ -19,7 +19,7 @@ menu:
 
 Truth-Machine’s approach defines how written material is interpreted before conclusions, scores, or recommendations are formed. It establishes the epistemic discipline that governs evaluation, ensuring that persuasive form, repetition, or apparent coherence cannot silently substitute for evidentiary grounding or logical integrity.
 
-The system does not determine what decisions should be made. Instead, it structures how interpretive influence is surfaced, constrained, and examined so that human judgment operates with clarity rather than momentum.  Truth-Machine ensures:
+Truth-Machine does not determine what decisions should be made. Instead, it structures how interpretive influence is surfaced, constrained, and examined so that human judgment operates with clarity rather than momentum.  Truth-Machine ensures:
 
 - **Admissibility ≠ Validity**
 - **Coherence ≠ Evidence**

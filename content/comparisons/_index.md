@@ -10,7 +10,7 @@ showMeta: false
 menu:
   main:
     name: "Comparisons"
-    weight: 40
+    weight: 50
 ---
 
 ## Governed vs Ungoverned Review
@@ -44,7 +44,7 @@ Truth-Machine introduces structural discipline around this problem:
 
 The difference is not “better answers.”
 
-The difference is **governed authority**.
+**The difference is governed authority**.
 
 ---
 

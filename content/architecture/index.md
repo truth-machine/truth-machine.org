@@ -29,13 +29,32 @@ Written material accumulates authority not only through individual claims, but t
 
 Governance failures rarely originate in a single incorrect statement. They arise when interpretive signals propagate without constraint—when persuasive success, narrative momentum, or statistical regularity is allowed to masquerade as epistemic validity.
 
-Truth-Machine is architected to address this structural risk directly. It does not decide what is true. It constrains how interpretive signals are admitted, combined, amplified, and stabilized so that authority is earned through evidence and coherence rather than accumulated by form.
+Truth-Machine is architected to address this structural risk directly. It does not decide what is true. It constrains how interpretive signals are admitted, combined, amplified, and stabilized so that authority is earned through evidence and disciplined reasoning rather than accumulated by form.
 
+---
+
+## High-Level System Structure
 <figure style="text-align: center; margin: 2rem 0;">
   <img src="/img/diagrams/evaluative-pipeline.svg"
        alt="Evaluative Pipeline"
        style="max-width: 100%; height: auto;">
 </figure>
+
+Truth-Machine operates as a staged interpretive pipeline. Each stage produces constrained outputs that serve as admissible inputs to subsequent stages.
+
+No stage bypasses upstream constraints, and no downstream process retroactively overrides interpretive decisions made earlier. Governance is enforced structurally, not by post-hoc correction.
+
+At a structural level, the system separates:
+
+- interpretive decomposition from numerical evaluation,
+- evaluation from weighting,
+- weighting from aggregation,
+- aggregation from amplification, and
+- diagnostics from correction.
+
+These separations are architectural commitments. They exist to prevent silent coupling between functions that, in ungoverned systems, tend to collapse into opaque or misleading outcomes.
+
+Truth-Machine distinguishes between interpretive state and permitted transitions between stages. Governance parameters constrain how influence may couple locally and how it may persist or decay over time, ensuring stability without post-hoc adjustment.
 
 ---
 
@@ -56,24 +75,6 @@ The purpose is not to suppress interpretation, but to ensure that what accumulat
 
 ---
 
-## High-Level System Structure
-
-Truth-Machine operates as a staged interpretive pipeline. Each stage produces constrained outputs that serve as admissible inputs to subsequent stages.
-
-No stage bypasses upstream constraints, and no downstream process retroactively overrides interpretive decisions made earlier. Governance is enforced structurally, not by post-hoc correction.
-
-At a structural level, the system separates:
-
-- interpretive decomposition from numerical evaluation,
-- evaluation from weighting,
-- weighting from aggregation,
-- aggregation from amplification, and
-- diagnostics from correction.
-
-These separations are architectural commitments. They exist to prevent silent coupling between functions that, in ungoverned systems, tend to collapse into opaque or misleading outcomes.
-
----
-
 ## Evaluation, Weighting, and Aggregation (Clarifying Distinction)
 
 Truth-Machine deliberately distinguishes three roles that are often conflated in analytic systems:
@@ -87,25 +88,13 @@ Aggregation does not generate new evaluative judgments. Its purpose is analytica
 Put differently:
 
 Aggregation is not where truth is decided.  
-Aggregation is where misalignment becomes visible.
+**Aggregation is where misalignment becomes visible.**  
 
 By assembling evaluation and weighting results into explicit relational artifacts, the system enables reviewers to examine:
 
 - where evaluative pressure accumulated,
 - how weighting assumptions shaped outcomes, and
 - which upstream stage most likely contributed to perceived misalignment.
-
----
-
-## State and Transition Discipline
-
-Truth-Machine distinguishes between interpretive state and permitted transitions between states.
-
-Evaluative representations encode state at a given point in the process. Governance parameters constrain which transitions are allowed, how strongly signals may couple locally, and how influence may persist or decay across stages.
-
-Not all transitions are permitted. Not all states persist.
-
-This discipline enables stability, comparison, and revision without relying on heuristic normalization or post-hoc adjustment.
 
 ---
 

@@ -14,7 +14,7 @@ menu:
     weight: 60
 ---
 
-*Truth-Machine is an evaluation and governance framework for written material used in high-stakes decision contexts.*
+*Truth-Machine is an interpretive governance framework for written material used in high-stakes decision contexts.*
 
 Truth-Machine was created in response to a recurring governance problem: critical decisions increasingly depend on documents whose persuasive force can quietly exceed their evidentiary grounding.
 

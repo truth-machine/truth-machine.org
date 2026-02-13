@@ -1,6 +1,5 @@
 ---
 title: "Overview"
-url: "/Overview/"
 layout: "page"
 draft: false
 
@@ -16,6 +15,7 @@ menu:
 
 *Truth-Machine is a governance-oriented system for the structured interpretation and evaluation of written material in high-stakes decision environments.*
 
+Truth-Machine governs how written influence is admitted, examined, and allowed to accumulate into authority—so conclusions earn weight through evidence and reasoning rather than persuasive form.
 
 ## Orientation
 
@@ -23,26 +23,20 @@ Truth-Machine is designed for situations in which written documents—research m
 
 Truth-Machine does not generate content, predict outcomes, or automate decisions. Its purpose is to govern how written material is admitted, structured, and allowed to influence evaluative processes, in support of disciplined human judgment.
 
-## The Problem Space
+## The Governance Gap
 
 Modern decision-making increasingly depends on complex written artifacts:
 
 - Investment proposals and committee memoranda
-
 - Due-diligence reports and risk assessments
-
 - Regulatory, policy, and compliance documentation
-
 - AI-assisted summaries, analyses, and narratives
 
 These materials often exhibit characteristics that complicate responsible evaluation:
 
 - Persuasive structure that outpaces evidentiary support
-
 - Accumulated repetition that amplifies weak claims over time
-
 - Internal inconsistency across sections or revisions
-
 - Blurred boundaries between interpretation, inference, and assertion
 
 In such contexts, confidence can emerge from form, familiarity, or frequency rather than from well-grounded evidence.
@@ -56,43 +50,32 @@ At its core, Truth-Machine is an interpretive governance framework.
 It introduces structured constraints on how written material is:
 
 - Decomposed into interpretable components
-
 - Evaluated across multiple criteria
-
 - Aggregated across sections, documents, and time
-
 - Allowed to propagate influence within an evaluation process
 
 Crucially, Truth-Machine separates:
 
 - **Evidence admissibility** from **evaluative outcomes**
-
 - **Interpretive structure** from **numerical scoring**
-
 - **Governance constraints** from **human judgment**
 
-This separation allows decision-makers to see why a conclusion appears strong or weak—not merely that it does.
+This separation allows decision-makers to see why an assessment holds—not merely what it concludes.
 
 ## What Truth-Machine Is — and Is Not
 
 ### Truth-Machine is:
 
 - A governance layer for written material
-
 - A structured interpretive and evaluative framework
-
 - A tool for improving transparency, traceability, and defensibility
-
 - Designed for committee-based and compliance-sensitive environments
 
 ### Truth-Machine is not:
 
 - A predictive engine
-
 - A trading or recommendation system
-
 - An automated decision maker
-
 - A replacement for expert or fiduciary judgment
 
 Its role is to strengthen decision processes, not to substitute for them.
@@ -102,24 +85,18 @@ Its role is to strengthen decision processes, not to substitute for them.
 Truth-Machine is designed for environments in which:
 
 - Decisions are consequential
-
 - Documentation matters
-
 - Accountability is required
-
 - Interpretive drift or rhetorical amplification poses risk
 
 Typical use contexts include:
 
 - Investment committee review and oversight
-
 - Fiduciary governance and due diligence
-
 - Compliance and regulatory evaluation
-
 - Institutional policy analysis
-
 - Educational and analytical settings requiring interpretive rigor
+
 
 ## Status and Scope
 
@@ -127,11 +104,11 @@ Truth-Machine is currently documented as a complete conceptual and architectural
 
 This site presents:
 
-- The system’s structural design
+- The system’s interpretive governance approach
+- Its structural design and governing logic
+- Its intended modes of use in high-stakes decisions
 
-- Its governance logic
-
-- Its intended modes of use
+A dedicated Comparisons section situates Truth-Machine alongside existing AI-assisted review workflows and clarifies the governance distinction.
 
 Executable implementations, demonstrations, and integrations are intentionally deferred. The emphasis at this stage is on clarity of structure, governance intent, and evaluative philosophy.
 
