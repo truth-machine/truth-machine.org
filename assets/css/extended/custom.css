@@ -1,21 +1,17 @@
 /* ============================================================
    Truth-Machine (PaperMod) — Global Visual Consistency
-   Purpose: Remove subtle background differences across
-   home / section / list / single templates.
+   Goal: Force a clean white background across all pages.
    ============================================================ */
 
-/* Force a uniform white background everywhere */
-html,
-body,
-.main,
-.page,
-.post,
-.post-single,
-.list,
-.profile,
-.terms,
-.archive,
-.pagination,
+/* PaperMod uses CSS variables for backgrounds. Override them. */
+:root {
+  --theme: #ffffff !important;   /* page background */
+  --entry: #ffffff !important;   /* cards / content blocks */
+}
+
+/* Also force background on common wrappers (belt + suspenders). */
+html, body,
+.main, .page, .post, .post-single, .list, .profile, .terms, .archive,
 .footer {
   background: #ffffff !important;
 }
@@ -26,13 +22,8 @@ body,
   top: 0;
   z-index: 1000;
 
-  /* Use theme variable so header matches PaperMod palette */
   background: var(--theme);
-
-  /* Subtle separation line */
   border-bottom: 1px solid rgba(128, 128, 128, 0.15);
-
-  /* Very light depth cue */
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
