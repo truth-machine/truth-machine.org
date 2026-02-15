@@ -1,6 +1,5 @@
 ---
 title: "Applications"
-layout: "page"
 draft: false
 
 showReadingTime: false

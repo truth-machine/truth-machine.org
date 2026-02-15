@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-layout: "page"
 draft: false
 
 showReadingTime: false

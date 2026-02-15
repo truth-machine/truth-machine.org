@@ -1,6 +1,5 @@
 ---
 title: "Architecture"
-layout: "page"
 draft: false
 
 showReadingTime: false

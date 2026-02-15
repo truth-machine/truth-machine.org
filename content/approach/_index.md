@@ -1,6 +1,5 @@
 ---
 title: "Approach"
-layout: "page"
 draft: false
 
 showReadingTime: false

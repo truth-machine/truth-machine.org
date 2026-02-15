@@ -1,6 +1,5 @@
 ---
 title: "Comparisons"
-layout: "page"
 draft: false
 
 showReadingTime: false

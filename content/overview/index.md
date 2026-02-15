@@ -1,6 +1,5 @@
 ---
 title: "Overview"
-layout: "page"
 draft: false
 
 showReadingTime: false

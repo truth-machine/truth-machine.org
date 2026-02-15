@@ -1,7 +1,6 @@
 
 ---
 title: "About"
-layout: "page"
 draft: false
 
 showReadingTime: false
