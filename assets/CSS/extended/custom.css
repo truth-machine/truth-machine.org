@@ -1,18 +1,38 @@
-/* Make all non-home pages white (keep home page as-is) */
-body:not(.home),
-body:not(.home) .main {
-  background: #fff !important;
+/* ============================================================
+   Truth-Machine (PaperMod) — Global Visual Consistency
+   Purpose: Remove subtle background differences across
+   home / section / list / single templates.
+   ============================================================ */
+
+/* Force a uniform white background everywhere */
+html,
+body,
+.main,
+.page,
+.post,
+.post-single,
+.list,
+.profile,
+.terms,
+.archive,
+.pagination,
+.footer {
+  background: #ffffff !important;
 }
+
+/* Sticky header (clean institutional feel) */
 .header {
   position: sticky;
   top: 0;
   z-index: 1000;
+
+  /* Use theme variable so header matches PaperMod palette */
   background: var(--theme);
 
-  /* Subtle separation */
+  /* Subtle separation line */
   border-bottom: 1px solid rgba(128, 128, 128, 0.15);
 
   /* Very light depth cue */
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
-
+}
